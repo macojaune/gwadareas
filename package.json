@@ -1,0 +1,25 @@
+{
+  "name": "gwadareas",
+  "private": true,
+  "scripts": {
+    "build": "gridsome build",
+    "develop": "gridsome develop",
+    "explore": "gridsome explore"
+  },
+  "dependencies": {
+    "airtable": "^0.5.8",
+    "bootstrap": "^4.2.1",
+    "gridsome": "^0.3.0",
+    "pug": "^2.0.3",
+    "pug-plain-loader": "^1.0.0",
+    "stylus": "^0.54.5",
+    "stylus-loader": "^3.0.2",
+    "vue-mapbox-map": "^0.8.6"
+  },
+  "devDependencies": {
+    "@gridsome/source-wordpress": "^0.1.1",
+    "eslint": "^5.12.0",
+    "eslint-plugin-gridsome": "^1.0.1",
+    "vue-eslint-parser": "^5.0.0"
+  }
+}
